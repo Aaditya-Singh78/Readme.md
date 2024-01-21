@@ -1,33 +1,60 @@
-# Hi, I'm Aaditya Singh
-
-![readme](https://github.com/Aaditya-Singh78/Readme.md/assets/68394997/b3f8a4ae-221b-48ad-b79c-504c044a8886)
-
-
-I'm Aaditya Singh, a software engineer with a strong passion for making open-source contributions more approachable, creating technology to uplift people, and building community. 
-My proficiency spans across various programming languages, encompassing Java, JavaScript, and Python. Additionally, I excel in mobile app development, leveraging the Flutter framework to create seamless and efficient applications.
-
-<div style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
-  <div>
-    <a href="https://github.com/Aaditya-Singh78">
-      <img src="https://robohash.org/PSC.png?set=set4" alt="GitHub Avatar" width="100px">
-    </a>
-  </div>
-  <div>
-    <h2>Find Me:</h2>
-    <p>
-      <a href="https://www.linkedin.com/in/aadi-singh/">
-        <img src="https://cdn4.iconfinder.com/data/icons/social-icons-16/512/LinkedIn_alt-30.png" width="30" height="30" alt="LinkedIn">
-      </a>
-      <a href="https://twitter.com/__Aadityasingh">
-        <img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/03-twitter-30.png" width="30" height="30" alt="Twitter">
-      </a>
-      <a href="mailto:aaditya.out@gmail.com">
-        <img src="https://cdn0.iconfinder.com/data/icons/essentials-solid-glyphs-vol-1/100/Email-Letter-Mail-30.png" width="30" height="30" alt="Email" />
-      </a>
-    </p>
-  </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/aadi-singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://mailto:aaditya.out@gmail.com/">
+    <img src="https://img.shields.io/badge/mail-white?style=for-the-badge&logo=gmail&logoColor=Red" alt="Gmail Badge"/>
+  </a>
+  <a href="https://twitter.com/__Aadityasingh">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<h1 align="center" style="display: flex; align-items: center; flex-direction: column; text-align: center; font-size: 24px;">
+  🙏<span lang="hi">नमस्ते</span>
+</h1>
 
-
-
+<ul>
+  <li>
+    <span align="center">
+        <b align="center">Programming Languages:</b>
+        <img align="center" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="" width="35" height="35" />
+        <img align="center" src="https://img.icons8.com/color/100/javascript--v1.png" alt="" width="35" height="35"/>
+        <img align="center" src="https://img.icons8.com/color/48/000000/python.png" alt="" width="35" height="35"/>
+    </span>
+  </li>
+  <li>
+    <span align="center">
+        <b align="center">Mobile App Development:</b>
+        <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="" width="35" height="35" />
+    </span>
+  </li>
+  <li>
+    <span align="center">
+        <b align="center">Database Management:</b>
+        <img align="center" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="" width="35" height="35" />
+        <img align="center" src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="" width="35" height="35" />
+        <img align="center" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="" width="35" height="35" >
+    </span>
+  </li>
+  <li>
+    <span align="center">
+        <b align="center">Cross-Platform Development:</b>
+        <img align="center" src="https://img.icons8.com/material-two-tone/25/5C7CFA/physics.png" alt="Electron Logo" width="35" height="35" />
+    </span>
+  </li>
+  <li>
+    <span align="center">
+        <b align="center">Tools:</b>
+        <img align="center" src="https://img.icons8.com/color/48/000000/git.png" alt="Git Logo" width="35" height="35" />
+        <img align="center" src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker Logo" width="35" height="35" />
+        <img align="center" src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase Logo" width="35" height="35" />
+        <img align="center" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="Aws Logo" width="35" height="35" />
+        <img align="center" src="https://img.icons8.com/color/48/azure-1.png" alt="Azure Logo" width="35" height="35" />
+        <img align="center" src="https://img.icons8.com/external-others-pike-picture/49/CC5DE8/external-Ant-insect-others-pike-picture-3.png" alt="external-Ant-insect-others-pike-picture-3" width="35" height="35" />
+    </span>
+  </li>
+</ul>
 
