@@ -12,10 +12,23 @@
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <h1 align="center" style="display: flex; align-items: center; flex-direction: column; text-align: center; font-size: 24px;">
   🙏<span lang="hi">नमस्ते</span>
 </h1>
 
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 50%; padding: 0 10px;">
+    <img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" alt="Giphy" width="100%">
+  </div>
+  <div style="flex: 50%; padding: 0 10px;">
+    <h3>Hello, I'm Aaditya Singh</h3>
+    <p>Enthusiastic | Adaptable | Tech Explorer</p>
+    <p>I'm an Open-Source Developer with a foundation in Electronics and Communication Engineering, passionate about leveraging technology to create meaningful solutions. My journey in the tech world extends beyond coding, embracing roles as a data analyst, Web Developer, and Software Developer.</p>
+  </div>
+</div>
+
+## 🧰 Languages and Tools:
 <ul>
   <li>
     <span align="center">
@@ -42,7 +55,7 @@
   <li>
     <span align="center">
         <b align="center">Cross-Platform Development:</b>
-        <img align="center" src="https://img.icons8.com/material-two-tone/25/5C7CFA/physics.png" alt="Electron Logo" width="35" height="35" />
+        <img width="35" height="35" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-the-electron-is-a-subatomic-particle-whose-electric-charge-is-negative-one-logo-shadow-tal-revivo.png" alt="external-the-electron-is-a-subatomic-particle-whose-electric-charge-is-negative-one-logo-shadow-tal-revivo"/>
     </span>
   </li>
   <li>
