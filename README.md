@@ -53,7 +53,7 @@ If you're interested in brainstorming ideas or discussing potential projects, fe
   </tr>
 </table>
 
-## Tools & Technology
+## ⚙️ Tools & Technology
 ![image](https://github.com/aadsingh/Aadsingh/assets/68394997/c256c228-50c7-4b02-9780-2eea54cbbb16)
 ![image](https://github.com/aadsingh/Aadsingh/assets/68394997/886e9efb-74ed-4ac7-8cea-dc7826978917)
 ![image](https://github.com/aadsingh/Aadsingh/assets/68394997/6cd741d3-4d06-4f0f-be57-0bb9fbd5d776)
