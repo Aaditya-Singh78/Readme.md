@@ -80,17 +80,6 @@ If you're interested in brainstorming ideas or discussing potential projects, fe
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/7eb9a23f-c17a-4d50-8fc6-405262374193" width="45" height="45"></img>
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/fba6a8fb-61e1-4058-9853-c197c125130e" width="45" height="45"></img>
 
-<!--   Python -->
-<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/eee4eb7e-cd81-43cf-83c7-2a3faf42cd2c" width="45" height="45"></img>
-<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/518b84fa-26ed-4010-a0ee-1f8178149970" width="45" height="45"></img>
-<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/e89bb8e8-d898-47a5-9e7c-249f08f9a89a" width="45" height="45"></img>
-<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/728351d5-5a88-4bbb-8405-2054c887baf0" width="45" height="45"></img>
-<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/e198a93f-b760-4e82-bcb4-5213f5647a04" width="45" height="45"></img>
-<!--
-<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/eee4eb7e-cd81-43cf-83c7-2a3faf42cd2c" width="45" height="45"></img>
-<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/eee4eb7e-cd81-43cf-83c7-2a3faf42cd2c" width="45" height="45"></img>
--->
-
 <!-- Cloud Platforms  -->
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/2a6940bf-9253-49b7-a398-cd97c67e5c8b" width="45" height="45"></img>
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/42c3c9b5-ceb4-4b94-89c7-795bf1c24b86" width="45" height="45"></img>
@@ -99,7 +88,14 @@ If you're interested in brainstorming ideas or discussing potential projects, fe
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/1cfb77ae-fa7c-4f17-aa9d-6674c31c9c91" width="45" height="45"></img>
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/3ecf7604-b6c5-4c5c-b629-9606a0766d72" width="45" height="45"></img>
 
-
+<!--   Python -->
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/eee4eb7e-cd81-43cf-83c7-2a3faf42cd2c" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/518b84fa-26ed-4010-a0ee-1f8178149970" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/e89bb8e8-d898-47a5-9e7c-249f08f9a89a" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/728351d5-5a88-4bbb-8405-2054c887baf0" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/e198a93f-b760-4e82-bcb4-5213f5647a04" width="45" height="45"></img>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYl-N-O5-sSYVEPNUVGqHyNZNvdvg2s35Ig&s" width="45" height="45"></img>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"></img>
 
 </section>
 
