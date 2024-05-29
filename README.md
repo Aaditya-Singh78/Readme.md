@@ -54,28 +54,54 @@ If you're interested in brainstorming ideas or discussing potential projects, fe
 </table>
 
 ## ⚙️ Tools & Technology
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/c256c228-50c7-4b02-9780-2eea54cbbb16)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/886e9efb-74ed-4ac7-8cea-dc7826978917)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/6cd741d3-4d06-4f0f-be57-0bb9fbd5d776)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/e765672b-a1ae-4fa0-b659-f26595ccf42a) //img-golang
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/2ced5f36-2e03-4123-b8ca-ada5a76947d8)
-// img-numpy, img-pandas, img-seaborn, img-matplotlib
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/74f57329-1a96-40a3-aef1-f0cc06d6503d) //img-django
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/3a7d5c45-5c86-450b-bb41-c608c7824edf)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/a47b0cb1-25ec-49b5-9173-11d29018a534) //img-flutter
-// img-electronjs
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/88a28dd4-c65c-48d2-b020-51c8859a136b)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/8393b923-77b8-4dbe-bb30-98ad6786a566)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/2fa3d4ef-6948-4fcf-85f5-f3f034fc365a)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/13e89963-d68d-4c5a-b32b-7634a4c506d6)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/5d990c85-926f-4320-a0a9-a2b8837c8afe)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/dc6b7361-eac0-4466-b878-1bed298f384e)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/6cf8ca2b-0b1a-4aaf-af0d-e83f1ecb3247)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/50c64605-af68-4acd-8c8e-c5a3ebcc3d46)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/42bf63ff-3890-4463-ba17-c42cb4f1d06b)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/1dd69b72-1671-448a-b265-221cf693aa7f)
-![image](https://github.com/aadsingh/Aadsingh/assets/68394997/fcf60dc4-071b-478d-befe-da3cd5ab552e)
 
+<section align="center">
+
+<!-- Golang -->
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/153afb92-c2f8-42d3-bb60-1ff998188938" width="45" height="45"></img>
+
+<!--   Flutter -->
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/0672eaf4-a1dc-4f63-803a-d4c9783cc0a3" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/d88794ae-eedd-464a-8a3d-375fc9f0b7e1" width="45" height="45"></img>
+
+<!--   Javascript -->
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/834fbc31-7f7a-4b4d-85ed-a01d6f588900" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/64f05c51-7e42-46cb-abe0-f373e6f677e8" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/5b8fbb47-134a-4b4e-8fd2-7b95bd186949" width="45" height="45"></img>
+
+<!--   Database -->
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/6c7c3218-cea7-4ec0-9076-5ce2066a118a" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/5fd368f7-5cb1-46c6-83f2-d282dc09dae8" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/e228e22d-8fa3-4ff0-be09-539fd1513774" width="45" height="45"></img>
+
+<!--   Java  -->
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/9bd9e01c-e1dc-4fba-896d-91bd53359fb2" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/0cf814a9-b4e5-471d-a96c-4d631c4d50a6" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/7eb9a23f-c17a-4d50-8fc6-405262374193" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/fba6a8fb-61e1-4058-9853-c197c125130e" width="45" height="45"></img>
+
+<!--   Python -->
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/eee4eb7e-cd81-43cf-83c7-2a3faf42cd2c" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/518b84fa-26ed-4010-a0ee-1f8178149970" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/e89bb8e8-d898-47a5-9e7c-249f08f9a89a" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/728351d5-5a88-4bbb-8405-2054c887baf0" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/e198a93f-b760-4e82-bcb4-5213f5647a04" width="45" height="45"></img>
+<!--
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/eee4eb7e-cd81-43cf-83c7-2a3faf42cd2c" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/eee4eb7e-cd81-43cf-83c7-2a3faf42cd2c" width="45" height="45"></img>
+-->
+
+<!-- Cloud Platforms  -->
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/2a6940bf-9253-49b7-a398-cd97c67e5c8b" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/42c3c9b5-ceb4-4b94-89c7-795bf1c24b86" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/d8762b29-3637-4b38-a2bb-4f024d1559f5" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/b8049030-c081-4c1e-a3d3-84ff91efe2bb" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/1cfb77ae-fa7c-4f17-aa9d-6674c31c9c91" width="45" height="45"></img>
+<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/3ecf7604-b6c5-4c5c-b629-9606a0766d72" width="45" height="45"></img>
+
+
+
+</section>
 
 
 
@@ -87,9 +113,9 @@ If you're interested in brainstorming ideas or discussing potential projects, fe
 <h3 align="center">Let's Connect & Chat!</h3>
 <div align="center">
   
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/slack-4wv1877/shared_invite/zt-2jkuofxef-exAKn7Ld~zS6ZOyYjctoLg)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hxpZaRwK)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/_Aadityasingh/)
 
 </div>
 </footer>
