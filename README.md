@@ -41,14 +41,14 @@ If you're interested in brainstorming ideas or discussing potential projects, fe
   <tr>
     <td> 
       <a href="https://github.com/aadsingh/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=AadSingh&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="Metrics-Dark"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Aaditya-Singh78&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only" alt="Metrics-Dark"/>
       </a>
       <a href="https://github.com/aadsingh/github-readme-stats&#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=AadSingh&show_icons=true&theme=defaul&hide_border=true#gh-light-mode-only" alt="Metrics-Light"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Aaditya-Singh78&show_icons=true&theme=defaul&hide_border=true#gh-light-mode-only" alt="Metrics-Light"/>
       </a>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadSingh&theme=dark&hide_border=true" alt="Aaditya's GitHub Streak Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya-Singh78&theme=dark&hide_border=true" alt="Aaditya's GitHub Streak Stats"/>
     </td>
   </tr>
 </table>
