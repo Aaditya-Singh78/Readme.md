@@ -59,6 +59,7 @@ If you're interested in brainstorming ideas or discussing potential projects, fe
 
 <!-- Golang -->
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/153afb92-c2f8-42d3-bb60-1ff998188938" width="45" height="45"></img>
+<img src="https://github.com/Aaditya-Singh78/Aaditya-Singh78/assets/68394997/0af3bcdc-9ce3-4d17-8d66-8d48018d61bf" width="45" height="45"></img>
 
 <!--   Flutter -->
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/0672eaf4-a1dc-4f63-803a-d4c9783cc0a3" width="45" height="45"></img>
