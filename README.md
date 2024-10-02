@@ -1,9 +1,7 @@
-<div align="center" >
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="15%" height="15%" alt="Coding GIF">
 
-</div>
 <div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%" height="50%" alt="Coding GIF">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadi-singh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaditya.out@gmail.com)
@@ -11,14 +9,14 @@
 
 </div>
 
-### Hi there, I'm Aaditya Singh! 👋
+### Hi, I’m Aaditya Singh 👋
 
-I am an engineering graduate focused on delivering impactful technological solutions across various sectors. My educational background in engineering, enriched by real-world experiences with organizations like Fossasia, has equipped me with a robust understanding of both the technical and managerial facets of project execution.
+A passionate software engineer and open-source contributor. With a background in electronics and communications engineering, my focus lies in delivering impactful technological solutions, particularly in system optimization, project management, and technical innovations. I believe in developing cutting-edge technologies that enhance efficiency and scalability in both open-source and enterprise projects.
 
 🔍 **What I Do:**
-- **Efficiency Enhancer:** I specialize in optimizing processes, increasing productivity, and implementing tech innovations to ensure project success.
-- **Technical Problem Solver:** With an adept command over multiple programming languages and tools, I tackle complex challenges with strategic and innovative solutions.
-- **Leadership & Collaboration:** Leading teams and working across functional units, I strive to transform challenges into opportunities for growth.
+- *System Optimization:* Experience in optimizing performance and functionality of complex systems.
+- *Project Management:* Proven track record of leading projects to successful outcomes through efficient management and strategic planning.
+- *Technical Expertise:* Strong background in languages like Go, C, PostgreSQL, and Docker.
 
 💡 **Driven By Results:**
 My motivation stems from the gratification of seeing my solutions come to life—making real differences in operational flow and project outcomes. It’s about understanding the needs, designing the solution, and meticulously executing the  vision.
@@ -26,8 +24,7 @@ My motivation stems from the gratification of seeing my solutions come to life�
 🌱 **Looking Forward:**
 As I continue my professional journey, I am keen to engage with opportunities that leverage my engineering expertise and leadership skills in new and exciting ways. I am always open to connecting with fellow tech enthusiasts and potential collaborators.
 
-📬 **Let’s Make Something Great Together:**
-If you're interested in brainstorming ideas or discussing potential projects, feel free to reach out. I’m looking forward to what we can create together!
+📬 **Let's Collaborate:** Feel free to reach out to discuss ideas or potential projects!
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/__aadityasingh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Aadi-singh/)
@@ -58,7 +55,7 @@ If you're interested in brainstorming ideas or discussing potential projects, fe
 <section align="center">
 
 <!-- Golang -->
-<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/153afb92-c2f8-42d3-bb60-1ff998188938" width="45" height="45"></img>
+<img src="https://github.com/user-attachments/assets/98badc4c-cd09-4cfd-a5a9-8c17436f589a" width="45" height="45"></img>
 <img src="https://github.com/Aaditya-Singh78/Aaditya-Singh78/assets/68394997/0af3bcdc-9ce3-4d17-8d66-8d48018d61bf" width="45" height="45"></img>
 
 <!--   Flutter -->
@@ -67,7 +64,7 @@ If you're interested in brainstorming ideas or discussing potential projects, fe
 
 <!--   Javascript -->
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/834fbc31-7f7a-4b4d-85ed-a01d6f588900" width="45" height="45"></img>
-<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/64f05c51-7e42-46cb-abe0-f373e6f677e8" width="45" height="45"></img>
+<img src="https://github.com/user-attachments/assets/12055f75-83b3-4b96-b219-fbdc3322f7a8" width="45" height="45"></img>
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/5b8fbb47-134a-4b4e-8fd2-7b95bd186949" width="45" height="45"></img>
 
 <!--   Database -->
@@ -93,18 +90,12 @@ If you're interested in brainstorming ideas or discussing potential projects, fe
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/eee4eb7e-cd81-43cf-83c7-2a3faf42cd2c" width="45" height="45"></img>
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/518b84fa-26ed-4010-a0ee-1f8178149970" width="45" height="45"></img>
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/e89bb8e8-d898-47a5-9e7c-249f08f9a89a" width="45" height="45"></img>
-<img src="https://github.com/aadsingh/Aadsingh/assets/68394997/728351d5-5a88-4bbb-8405-2054c887baf0" width="45" height="45"></img>
+<img src="https://github.com/user-attachments/assets/78f98c6a-6363-4f37-89df-653dc9e68240" width="45" height="45"></img>
 <img src="https://github.com/aadsingh/Aadsingh/assets/68394997/e198a93f-b760-4e82-bcb4-5213f5647a04" width="45" height="45"></img>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUYl-N-O5-sSYVEPNUVGqHyNZNvdvg2s35Ig&s" width="45" height="45"></img>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"></img>
 
 </section>
-
-
-
-
-
-
 
 <footer>
 <h3 align="center">Let's Connect & Chat!</h3>
@@ -120,6 +111,3 @@ If you're interested in brainstorming ideas or discussing potential projects, fe
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aadsingh&&style=flat-square" align="center" />
 </div>  
-
-
-
